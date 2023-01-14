@@ -1,2 +1,2 @@
 # QRCODE-GENERATOR
-## QRCODE generator written in HTML, CSS, and JavaScript. 
+QRCODE generator written in HTML, CSS, and JavaScript. 
